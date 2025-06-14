@@ -1,4 +1,4 @@
-bucket_name = "centralkeypair"
+bucket_name = "databasebuckettt"
 name        = "environment"
 environment = "dev-1"
 
